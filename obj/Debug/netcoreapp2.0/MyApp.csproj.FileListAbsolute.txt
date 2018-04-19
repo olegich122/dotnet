@@ -1,0 +1,10 @@
+/home/olegich/MyApp/bin/Debug/netcoreapp2.0/MyApp.deps.json
+/home/olegich/MyApp/bin/Debug/netcoreapp2.0/MyApp.runtimeconfig.json
+/home/olegich/MyApp/bin/Debug/netcoreapp2.0/MyApp.runtimeconfig.dev.json
+/home/olegich/MyApp/bin/Debug/netcoreapp2.0/MyApp.dll
+/home/olegich/MyApp/bin/Debug/netcoreapp2.0/MyApp.pdb
+/home/olegich/MyApp/obj/Debug/netcoreapp2.0/MyApp.csproj.CoreCompileInputs.cache
+/home/olegich/MyApp/obj/Debug/netcoreapp2.0/MyApp.AssemblyInfoInputs.cache
+/home/olegich/MyApp/obj/Debug/netcoreapp2.0/MyApp.AssemblyInfo.cs
+/home/olegich/MyApp/obj/Debug/netcoreapp2.0/MyApp.dll
+/home/olegich/MyApp/obj/Debug/netcoreapp2.0/MyApp.pdb

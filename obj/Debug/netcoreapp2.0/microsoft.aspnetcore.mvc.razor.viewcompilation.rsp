@@ -1,0 +1,5 @@
+/home/olegich/MyApp
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=MyApp
+--content-root=/home/olegich/MyApp
+--file=
