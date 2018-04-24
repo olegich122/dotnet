@@ -32,9 +32,7 @@ namespace MyApp
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-            } else {
-                app.UseDeveloperExceptionPage();
-            }
+            } 
             app.UseMvc();
         }
     }
